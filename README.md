@@ -8,3 +8,5 @@ Python, HTML, CSS
 I am currently aiming to learn more about the programing languges that I already know, as well as creating multiple projects to showcase my skills.
 
 ## Contact Information
+Business email: emma.coffman2707@gmail.com
+LinkedIn: www.linkedin.com/in/emma-coffman-b1523038b
