@@ -10,7 +10,7 @@ I am currently aiming to learn more about the programing languges that I already
 
 ## Contact Information
 Business email: emma.coffman2707@gmail.com
-[Follow my LinkedIn!]} (www.linkedin.com/in/emma-coffman-b1523038b)
+[Follow my LinkedIn!](www.linkedin.com/in/emma-coffman-b1523038b)
 
 ### Interests!
 - I love reading! I read any book that is under the sun whenever I have free time.
